@@ -65,7 +65,7 @@ The tool is designed for production use with comprehensive error handling, test 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AlexBiobelemo/Project-Avalanche
    cd ai-image-detector
    ```
 
@@ -301,3 +301,4 @@ MIT License - see LICENSE file for details
 ---
 
 **Note**: This tool is designed for research and educational purposes. For production use in critical applications, consider fine-tuning with domain-specific datasets and validating performance on your specific use cases.
+
